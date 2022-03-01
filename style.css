@@ -32,6 +32,8 @@
 .card img{
     width: 140px;
     border-radius: 50%;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
 }
 
 .card h2{
@@ -46,7 +48,7 @@
     max-width: 330px;
 }
 
-.card .links img{
+.links img{
     width: 40px;
     border-radius: 50%;
     margin: 10px 5px;
